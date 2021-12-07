@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code-2021-day-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "rescript build -w"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "rescript": "^9.1.4"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "aocday3",
+    "package-specs": {
+        "in-source": true,
+        "module": "commonjs"
+    },
+    "sources": "src"
+}
